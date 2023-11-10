@@ -32,3 +32,7 @@ The user can also select options regarding the nutrition value, a side drink to 
 3. Go to the link and use the application.
 
    http://localhost:5173/
+
+## 2. Authors
+- [@aptandre](https://github.com/aptandre)
+- [@lethiz](https://github.com/lethiz)
